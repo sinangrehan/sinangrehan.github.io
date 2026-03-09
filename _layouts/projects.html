@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<header>
+  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+  <div class="dashed"></div>
+  <h1>Projects</h1>
+</header>
+
+{% include card_list.html collection=site.data.home.all_project_entries %}
+
+<footer>
+  <div class="dashed"></div>
+  {% include horizontal_list.html collection=site.data.home.footer_entries %}
+</footer>
