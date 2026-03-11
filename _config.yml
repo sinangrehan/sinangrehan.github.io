@@ -3,7 +3,7 @@ author: Sinan Grehan
 url: "https://sinangrehan.github.io"
 description: >
   Graduate student at UChicago (MSCAPP) interested in civic tech and applying
-  computational skills to meaningful policy problems.
+  computational analysis to meaningful policy problems.
 permalink: /:slug
 favicon: "./favicon.ico"
 twitter:

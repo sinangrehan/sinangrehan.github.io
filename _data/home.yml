@@ -7,7 +7,7 @@ navbar_entries:
     url: projects
 project_entries:
   - title: Data Centers Next Door
-    url: https://github.com/uchicago-2026-capp30122/project-datacenter-urban-effects
+    url: projects#data-centers
     desc: Exploring the cost of living implications of data centers in the Chicago metro area.
     highlight: In Progress
 
