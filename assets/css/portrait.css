@@ -43,3 +43,20 @@
     height: 110px;
   }
 }
+
+/* Card overrides */
+.card {
+  min-width: 200px;
+  max-width: 260px;
+}
+
+.card .header {
+  font-size: 0.85rem;
+}
+
+/* Put highlight label on its own line */
+.card .header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
