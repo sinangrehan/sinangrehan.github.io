@@ -9,7 +9,8 @@ project_entries:
   - title: Data Centers Next Door
     url: projects#data-centers
     desc: Exploring the cost of living implications of data centers in the Chicago metro area.
-    highlight: In Progress
+    highlight: Completed
+    image: /images/datacenters_next_door.png
 
 footer_entries:
   - title: github
