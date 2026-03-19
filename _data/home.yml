@@ -13,7 +13,7 @@ project_entries:
     image: /images/datacenters_next_door.png
   - title: Data Visualizations From Senior Thesis
     url: projects#disaster-relief
-    desc: Examining whether federal disaster relief increases income inequality across U.S. states using a partial adjustment panel model.
+    desc: Examining whether federal disaster relief increases income inequality across the U.S.
     highlight: In Progress
     image: /images/ThesisScreenshot.png
 footer_entries:
