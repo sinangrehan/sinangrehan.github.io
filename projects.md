@@ -16,9 +16,9 @@ title: Projects
 
 This project explores the cost-of-living implications of data centers in the Chicago metro area. As data centers are known to exacerbate electricity and water costs and housing prices, we wanted to map those patterns at a local level in the Chicago metro area. Our project takes zip code-level housing price and utility/household costs data and converts it into a composite index score, and finds the average composite score associated with a zip code before and after a data center was built in that zip code. This is for 45 datacenters built between 2000 and 2020 in the Chicago metro area. We built a dashboard showing the average impact score of datacenters on cost of living (+5.5), with a map visualization allowing for comparisons of housing prices and costs between zip codes in the Chicago metro area.
 
-## Federal Disaster Relief & Income Inequality {#disaster-relief}
+## Did FEMA Aid Widen the Wealth Gap? {#disaster-relief}
 
-**Tools:** Python, Pandas, Plotly, R (dplyr), Stata, IPUMS, FEMA OpenData
+**Tools:** Python (Pandas, Plotly), R (dplyr), Stata
 
 **Key Questions:**
 - Does federal disaster relief increase or decrease income inequality?

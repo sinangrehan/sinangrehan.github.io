@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Visualizations From Senior Thesis
+title: Did FEMA Aid Widen the Wealth Gap?
 ---
 
 For my undergraduate senior thesis, I studied the effect of federal disaster relief administered by FEMA on income inequality. Using a partial adjustment regression (AR1 model), I found that FEMA aid exacerbated income inequality. Below are some exploratory visualizations of the dataset I built. In the future I will include a section on my analysis. 

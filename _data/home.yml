@@ -11,7 +11,7 @@ project_entries:
     desc: Exploring the cost of living implications of data centers in the Chicago metro area.
     highlight: Completed
     image: /images/datacenters_next_door.png
-  - title: Data Visualizations From Senior Thesis
+  - title: Did FEMA Aid Widen the Wealth Gap?
     url: projects#disaster-relief
     desc: Examining whether federal disaster relief increases income inequality across the U.S.
     highlight: In Progress
