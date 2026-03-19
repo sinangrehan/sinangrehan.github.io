@@ -11,7 +11,11 @@ project_entries:
     desc: Exploring the cost of living implications of data centers in the Chicago metro area.
     highlight: Completed
     image: /images/datacenters_next_door.png
-
+  - title: Data Visualizations From Senior Thesis
+    url: projects#disaster-relief
+    desc: Examining whether federal disaster relief increases income inequality across U.S. states using a partial adjustment panel model.
+    highlight: In Progress
+    image: /images/ThesisScreenshot.png
 footer_entries:
   - title: github
     url: https://github.com/sinangrehan
@@ -23,3 +27,7 @@ all_project_entries:
     url: https://github.com/sinangrehan
     desc: Exploring the cost of living implications of data centers in the Chicago metro area.
     highlight: Completed
+  - title: Data Visualizations From Senior Thesis
+    url: projects#disaster-relief
+    desc: Analyzing the effect of federal disaster relief on income inequality across U.S. states.
+    highlight: In Progress

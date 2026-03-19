@@ -60,3 +60,8 @@
   flex-direction: column;
   gap: 0.3rem;
 }
+mark.highlight-in-progress {
+  background: #f97316;
+  color: white;
+}
+
